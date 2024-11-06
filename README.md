@@ -1,1 +1,3 @@
-# fibonacci
+#include<stdio.h>
+int main()
+{
